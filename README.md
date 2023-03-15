@@ -6,7 +6,7 @@ Another cherry-picking ROM, developed by an usual person, nothing special
 To initialize your local repository, use this command:
 -----------------------------------------------------
 
-    repo init -u https://github.com/EunoiaOS/android_manifest.git -b 13
+    repo init -u https://github.com/EunoiaOS/android_manifest.git -b 13 --git-lfs
 
 To sync the repository, use this command:
 -----------------------------------------
